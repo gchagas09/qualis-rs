@@ -1,0 +1,8 @@
+/files/*
+/files_test/*
+/nao_contem/*
+/renomeados/*
+/so_imagens/*
+/venv/*
+/ver_depois/*
+*.zip

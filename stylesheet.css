@@ -1,0 +1,26 @@
+*{
+    font-size: 16;
+    font-weight: normal;
+    display: inline;
+    margin-left: 4;
+}
+h2{
+    display: inline;
+    font-weight: bold;
+}
+a{
+    display: inline;
+}
+h3{
+    display: block;
+}
+strong{
+    font-weight: bold;
+}
+hr{
+    display: block;
+}
+blockquote{
+    margin-top: 5;
+    margin-left: 15;
+}
